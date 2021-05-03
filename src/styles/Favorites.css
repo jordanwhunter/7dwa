@@ -1,0 +1,12 @@
+.favorites-column {
+  margin-top: -5;
+  padding-top: -1rem;
+  padding-right: 2rem;
+  margin-right: -1rem;
+  height: 800vh;
+  background-color: whitesmoke;
+}
+
+.favorites-h4 {
+  text-align: center;
+}
